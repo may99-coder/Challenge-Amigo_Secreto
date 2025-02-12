@@ -31,7 +31,7 @@ Para testar o jogo, siga os passos abaixo:
 1. Acesse o repositório do projeto:
 
 ```bash
-git clone git@github.com:may99-coder/Challenge-Amigo_Secreto_teste.git
+git clone git@github.com:may99-coder/Challenge-Amigo_Secreto.git
  ```
 
 2. Acesse o site para rodar o jogo:
